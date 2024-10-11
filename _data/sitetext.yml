@@ -98,7 +98,7 @@ en: &DEFAULT_EN
     people:
       - name: "Master Long Phi Su"
         role: "Nung Xi Head"
-        image: assets/img/team/1.png
+        image: assets/img/team/thaysu.png
       - name: "Master Long Phi Thach"
         role: "Acupuncture Lead"
         image: assets/img/team/2.png
