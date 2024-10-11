@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to our HealthCare Center
     text: It's Nice To Meet You
-    button: Tell Me More
+    button: Discover more
     buttonlink: "#services"
 
   services:
@@ -33,13 +33,13 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Our highlighted project"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Development of ThieuLamNungXi"
+    text: "Development of Thieu Lam Nung Xi"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -144,10 +144,8 @@ en: &DEFAULT_EN
         icon: "fab fa-twitter"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
+      - url: https://www.youtube.com/channel/UCrCyBmC1iYpTB4wrrvE9JfQ
+        icon: "fab fa-youtube-in"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 en-US:
