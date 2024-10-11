@@ -99,12 +99,15 @@ en: &DEFAULT_EN
       - name: "Master Long Phi Su"
         role: "Nung Xi Head"
         image: assets/img/team/thaysu.png
-      - name: "Master Long Phi Thach"
+      - name: "Master Thach Truong"
         role: "Acupuncture Lead"
         image: assets/img/team/2.png
-      - name: "Master Long Phi Vu"
+      - name: "Master Vu Nguyen"
         role: "Acupuncture Lead"
-        image: assets/img/team/3.png
+        image: assets/img/team/thayvu.png
+      - name: "Master Ty"
+        role: "Acupuncture Lead"
+        image: assets/img/team/thayty.png
 
   contact:
     title: "Contact Us"
