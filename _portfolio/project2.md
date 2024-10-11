@@ -1,11 +1,11 @@
 ---
-title: Healthcare program for Oxalis Adventure
+title: Healthcare program for Oxalis Adventures
 subtitle: Special training from the Shaolin Nung Si school
 image: https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-6/462202498_975823597911691_2562085231852895144_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Kvr-dseifzYQ7kNvgG-Vsnr&_nc_ht=scontent.fsgn5-12.fna&_nc_gid=AXkIa7Wl0m4knCMEEWa_Kec&oh=00_AYAOD6LG3X9xnUCwfvSmXMvtJEk3TyxkSdY3l_GfBqx_oA&oe=670E9CAB
 alt: Keep Exploring
 
 caption:
-  title: Oxalis Adventure
+  title: Oxalis Adventures
   subtitle: Employee HealthCare Yearly Program
   thumbnail: https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-6/462202498_975823597911691_2562085231852895144_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Kvr-dseifzYQ7kNvgG-Vsnr&_nc_ht=scontent.fsgn5-12.fna&_nc_gid=AXkIa7Wl0m4knCMEEWa_Kec&oh=00_AYAOD6LG3X9xnUCwfvSmXMvtJEk3TyxkSdY3l_GfBqx_oA&oe=670E9CAB
 ---
