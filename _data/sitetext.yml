@@ -75,6 +75,9 @@ en: &DEFAULT_EN
       - name: "Master Ty"
         role: "Acupuncture Lead"
         image: assets/img/team/thayty.png
+      - name: "Master Hiep Tran"
+        role: "Acupuncture Lead"
+        image: assets/img/team/thayhiep.png
 
   contact:
     title: "Contact Us"
