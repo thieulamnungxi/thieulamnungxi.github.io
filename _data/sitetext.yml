@@ -39,39 +39,32 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Development of ThieuLamNungXi"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Establish of first Training Center in Thu Duc City"
+        year: "2013"
+        desc: "Founded with the mission to integrate martial arts and ancient acupuncture techniques, focusing on comprehensive health care and recovery."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "10 years ceremony & new Training Center at District 2"
+        year: "September 2023"
+        desc: "Opened a new training place, further expanding our capacity to serve and empower more individuals with our health-focused martial arts programs."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Main Dojo of Nung Xi"
+        year: "October 2024"
+        desc: " Created the main dojo, a dedicated space where the brothers and sisters of the Nung Xi Shaolin can reunite and practice, furthering our tradition of martial arts and wellness integration."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Founded in 2013, ThieuLamNungXi is dedicated to promoting health and well-being through the time-honored practices of martial arts. Our unique approach integrates ancient acupuncture treatments with martial arts training, focusing on health recovery, immune system maintenance, and enhancing body flexibility. Our programs are designed for individuals of all ages seeking to improve their physical health and achieve mental balance. Join us to embark on a journey of transformation and empowerment, nurturing your body and mind in a supportive community environment."
     section: about
 
   clients:
