@@ -23,8 +23,6 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -73,7 +71,5 @@ de: &DEFAULT_DE
       section: Team
     - title: "Kontakt"
       section: Kontakt
-    - title: "Quellcode des Themas"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 de-DE:
   <<: *DEFAULT_DE
