@@ -32,15 +32,15 @@ en: &DEFAULT_EN
       - title: "Establish of first Training Center in Thu Duc City"
         year: "2013"
         desc: "Founded with the mission to integrate martial arts and ancient acupuncture techniques, focusing on comprehensive health care and recovery."
-        image: assets/img/timeline/thuduc.png
+        image: assets/img/timeline/1.png
         alt:
       - title: "New healthcare center in District 2, Thu Duc City"
-        year: "09 / 2023"
+        year: "Septemver 2023"
         desc: "In September, we opened a new training place, further expanding our capacity to serve and empower more individuals with our health-focused martial arts programs."
         image: assets/img/timeline/q2.png
         alt:
       - title: "10-Year Anniversary Celebration"
-        year: "Oct / 2023"
+        year: "October 2023"
         desc: "Celebrated our 10-Year Anniversary with a special ceremony highlighting a decade of growth and achievements in integrating martial arts with acupuncture for health and wellness. The event featured performances, speeches, and a community reception, marking a milestone in our journey and commitment to our members."
         image: assets/img/timeline/2.jpg
         alt:
