@@ -16,21 +16,6 @@ en: &DEFAULT_EN
     button: Discover more
     buttonlink: "#services"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
   portfolio:
     title: "Portfolio"
     text: "Our highlighted project"
@@ -71,24 +56,6 @@ en: &DEFAULT_EN
     text: "our story"
     body: "Founded in 2013, ThieuLamNungXi is dedicated to promoting health and well-being through the time-honored practices of martial arts. Our unique approach integrates ancient acupuncture treatments with martial arts training, focusing on health recovery, immune system maintenance, and enhancing body flexibility. Our programs are designed for individuals of all ages seeking to improve their physical health and achieve mental balance. Join us to embark on a journey of transformation and empowerment, nurturing your body and mind in a supportive community environment."
     section: about
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "Meet Our Enthusiastic Team"
