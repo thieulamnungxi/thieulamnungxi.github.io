@@ -39,10 +39,10 @@ vi: &DEFAULT_VI
       section: aboutus
     - title: "Lịch Sử"
       section: timeline
-    - title: "Dịch Vụ"
-      section: services
     - title: "Hoạt Động"
       section: porfolio
+    - title: "Kiến thức sức khoẻ"
+      section: services
     - title: "Đội Ngũ"
       section: team
     - title: "Liên hệ"
