@@ -73,3 +73,21 @@ de: &DEFAULT_DE
       section: Kontakt
 de-DE:
   <<: *DEFAULT_DE
+# Vi
+# -----------------
+vi: &DEFAULT_VI
+  nav:
+    - title: "Dịch Vụ"
+      section: services
+    - title: "Hoạt Động"
+      section: porfolio
+    - title: "Về Nững Xị"
+      section: aboutus
+    - title: "Lịch Sử"
+      section: timeline
+    - title: "Đội Ngũ"
+      section: team
+    - title: "Liên hệ"
+      section: contact
+vi-VI:
+  <<: *DEFAULT_VI

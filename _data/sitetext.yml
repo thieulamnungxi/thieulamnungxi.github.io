@@ -421,3 +421,102 @@ de: &DEFAULT_DE
         icon: "fab fa-instagram"
 de-DE:
   <<: *DEFAULT_DE
+
+# Vi (default)
+# -----------------
+vi: &DEFAULT_VI
+  header:
+    title: Welcome to our HealthCare Center
+    text: It's Nice To Meet You
+    button: Khám phá
+    buttonlink: "#aboutus"
+
+  portfolio:
+    title: "Hoạt động"
+    text: "Các hoạt động"
+    section: portfolio
+    closebutton: "X"
+
+  timeline:
+    title: "Lịch sử phát triển"
+    text: "Lịch sử phát triển của Thiếu Lâm Nững Xị"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Thành lập trung tâm chữa trị và phục hồi sức khoẻ tại Thành Phố Thủ Đức"
+        year: "2013"
+        desc: "Thành lập với sứ mệnh kết hợp võ thuật và các kỹ thuật bấm huyệt cổ, tập trung vào chăm sóc sức khỏe toàn diện và phục hồi."
+        image: assets/img/timeline/1.png
+        alt:
+      - title: "Trung tâm chữa trị và phục hồi sức khoẻ thứ 2 tại Quận 2, Thành phố Thủ Đức"
+        year: "09/2023"
+        desc: "Vào tháng 9 - 2023, chúng tôi đã mở một địa điểm tập luyện mới, mở rộng thêm khả năng phục vụ và trao quyền cho nhiều cá nhân hơn nữa thông qua các chương trình võ thuật tập trung vào sức khỏe."
+        image: assets/img/timeline/q2.png
+        alt:
+      - title: "Kỷ niệm 10 năm thành lập"
+        year: "10/2023"
+        desc: "Kỷ niệm 10 năm thành lập với một buổi lễ đặc biệt, nổi bật một thập kỷ phát triển và thành tựu trong việc kết hợp võ thuật với bấm huyệt để chăm sóc sức khỏe và tinh thần. Sự kiện đánh dấu một cột mốc quan trọng trong hành trình và cam kết của chúng tôi đối với các thành viên và cộng đồng."
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Tổ đường của Thiếu Lâm Nững Xị"
+        year: "10/2024"
+        desc: "Thành lập tổ đường chính, một không gian dành riêng cho các bạn bè đồng môn của Thiếu Lâm Nữngg Xị hội tụ và luyện tập, tiếp tục phát triển truyền thống kết hợp võ thuật và chăm sóc sức khỏe."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+    end: "Hãy Là Một Phần<br> Của Câu Chuyện<br> Chúng Tôi!"
+
+  about:
+    title: "Về Thiếu Lâm Nững Xị"
+    text: "our story"
+    body: ""
+    section: about
+
+  team:
+    title: "Meet Our Enthusiastic Team"
+    text: "."
+    subtext: At the heart of Thieu Lam Nung Xi is a team of dedicated professionals, each bringing a unique blend of expertise and zeal to our community. Our instructors are not only masters of martial arts and skilled in ancient acupuncture techniques, but they also share a profound commitment to enhancing health and well-being. Passionate about empowering individuals, they infuse every session with energy and enthusiasm, ensuring that all who join us feel welcomed, motivated, and capable of achieving their health and fitness goals. This vibrant group is committed to fostering a supportive environment where every member can thrive physically, mentally, and spiritually.
+    section: team
+    people:
+      - name: "Master Long Phi Su"
+        role: "Nung Xi Head"
+        image: assets/img/team/thaysu.png
+      - name: "Master Thach Truong"
+        role: "Acupuncture Lead"
+        image: assets/img/team/2.png
+      - name: "Master Vu Nguyen"
+        role: "Acupuncture Lead"
+        image: assets/img/team/thayvu.png
+      - name: "Master Ty"
+        role: "Acupuncture Lead"
+        image: assets/img/team/thayty.png
+      - name: "Master Hiep Tran"
+        role: "Acupuncture Lead"
+        image: assets/img/team/thayhiep.png
+
+  contact:
+    title: "Contact Us"
+    text: "Lorem ipsum or call 123456789"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://www.youtube.com/@Thi%E1%BA%BFuL%C3%A2mN%E1%BB%AFngX%E1%BB%8B
+        icon: "fab fa-youtube-in"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
