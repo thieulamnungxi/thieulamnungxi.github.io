@@ -1,19 +1,19 @@
 ---
-title: Healthcare program for Phat Tien Group
+title: Chương trình chăm sóc sức khoẻ cho Tập Đoàn Phát Tiến
 subtitle: September 2022 
 image: assets/img/project/1a.png
-alt: Employee HealthCare Yearly Program
+alt: Chương trình chăm sóc sức khoẻ định kỳ cho nhân viên
 
 caption:
-  title: Phat Tien Group
-  subtitle: Employee HealthCare Yearly Program
+  title: Tập Đoàn Phát Tiến
+  subtitle: Chương trình chăm sóc sức khoẻ định kỳ cho nhân viên
   thumbnail: assets/img/project/1b.png
 ---
 
-Private healthcare Package for Toyota Tien Giang and Ben Tre.
+Chương trình chăm sóc sức khoẻ định kỳ cho nhân viên của công ty Toyota Tiền Giang and Bến Tre.
 
 {:.list-inline}
 
-- Date: September 2022
+- Date: Tháng 9, 2022
 - Client: Phat Tien Group
-- Category: HealthCare
+- Category: Chăm Sóc Sức Khoẻ
