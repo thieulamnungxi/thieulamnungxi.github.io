@@ -469,21 +469,21 @@ vi: &DEFAULT_VI
   about:
     title: "Về Thiếu Lâm Nững Xị"
     text: "our story"
-    body: ""
+    body: "Thành lập vào năm 2013, Thiếu Lâm Nững Xị cam kết thúc đẩy sức khỏe và hạnh phúc thông qua các phương pháp luyện tập võ thuật truyền thống. Phương pháp độc đáo của chúng tôi kết hợp điều trị bấm huyệt cổ với luyện tập võ thuật, tập trung vào phục hồi sức khỏe, duy trì hệ miễn dịch và tăng cường sự dẻo dai của cơ thể. Các chương trình của chúng tôi được thiết kế cho mọi lứa tuổi nhằm cải thiện sức khỏe thể chất và đạt được sự cân bằng tinh thần. Hãy tham gia cùng chúng tôi trên hành trình biến đổi và trao quyền, nuôi dưỡng cơ thể và tâm trí trong một môi trường cộng đồng hỗ trợ."
     section: about
 
   team:
-    title: "Meet Our Enthusiastic Team"
+    title: "Gặp Gỡ Đội Ngũ Nhiệt Huyết Của Chúng Tôi"
     text: "."
-    subtext: At the heart of Thieu Lam Nung Xi is a team of dedicated professionals, each bringing a unique blend of expertise and zeal to our community. Our instructors are not only masters of martial arts and skilled in ancient acupuncture techniques, but they also share a profound commitment to enhancing health and well-being. Passionate about empowering individuals, they infuse every session with energy and enthusiasm, ensuring that all who join us feel welcomed, motivated, and capable of achieving their health and fitness goals. This vibrant group is committed to fostering a supportive environment where every member can thrive physically, mentally, and spiritually.
+    subtext: "Tại trung tâm của Thiếu Lâm Nững Xị là một đội ngũ các chuyên gia tận tâm, mỗi người mang đến sự kết hợp độc đáo của chuyên môn và lòng nhiệt thành cho cộng đồng của chúng tôi. Các huấn luyện viên của chúng tôi không chỉ là các bậc thầy của võ thuật và có kỹ năng trong các kỹ thuật bấm huyệt cổ, mà họ còn chia sẻ một cam kết sâu sắc trong việc cải thiện sức khỏe và hạnh phúc. Với đam mê trao quyền cho cá nhân, họ thổi vào mỗi buổi tập đầy năng lượng và sự nhiệt huyết, đảm bảo rằng tất cả những ai tham gia cùng chúng tôi đều cảm thấy được chào đón, được truyền cảm hứng, và có khả năng đạt được mục tiêu sức khỏe và thể chất của mình. Nhóm sôi nổi này cam kết tạo dựng một môi trường hỗ trợ nơi mỗi thành viên có thể phát triển cả về thể chất, tinh thần."
     section: team
     people:
-      - name: "Master Long Phi Su"
-        role: "Nung Xi Head"
-        image: assets/img/team/thaysu.png
       - name: "Master Thach Truong"
         role: "Acupuncture Lead"
         image: assets/img/team/2.png
+      - name: "Master Long Phi Su"
+        role: "Nung Xi Head"
+        image: assets/img/team/thaysu.png
       - name: "Master Vu Nguyen"
         role: "Acupuncture Lead"
         image: assets/img/team/thayvu.png
@@ -495,19 +495,19 @@ vi: &DEFAULT_VI
         image: assets/img/team/thayhiep.png
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Liên hệ"
+    text: "Giải đáp mọi thắc mắc"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
+    name: "Tên*"
+    name-validation: "Vui lòng nhập tên"
     email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    email-validation: "Vui lòng nhập email để ban chăm sóc có thể hỗ trợ trả lời các thắc mắc."
+    phone: "Số điện thoaị"
+    phone-validation: "Vui lòng nhập số điện thoại."
+    message: "Nội dung*"
+    message-validation: "Vui lòng nhập nội dung cần trao đổi."
+    subject: "Giải đáp thắc mắc"
+    submit: "Gửi"
 
   footer:
     legal: "Privacy Policy"
