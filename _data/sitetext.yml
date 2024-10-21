@@ -15,13 +15,13 @@ en: &DEFAULT_EN
     text: It's Nice To Meet You
     button: Discover more
     buttonlink: "#services"
-
-  portfolio:
-    title: "Portfolio"
-    text: "Our highlighted project"
-    section: portfolio
-    closebutton: "Close Project"
-
+  
+  about:
+    title: "About Us"
+    text: "our story"
+    body: "Founded in 2013, ThieuLamNungXi is dedicated to promoting health and well-being through the time-honored practices of martial arts. Our unique approach integrates ancient acupuncture treatments with martial arts training, focusing on health recovery, immune system maintenance, and enhancing body flexibility. Our programs are designed for individuals of all ages seeking to improve their physical health and achieve mental balance. Join us to embark on a journey of transformation and empowerment, nurturing your body and mind in a supportive community environment."
+    section: about
+  
   timeline:
     title: "Timeline"
     text: "Development of Thieu Lam Nung Xi"
@@ -51,12 +51,12 @@ en: &DEFAULT_EN
         alt: image alt text
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Founded in 2013, ThieuLamNungXi is dedicated to promoting health and well-being through the time-honored practices of martial arts. Our unique approach integrates ancient acupuncture treatments with martial arts training, focusing on health recovery, immune system maintenance, and enhancing body flexibility. Our programs are designed for individuals of all ages seeking to improve their physical health and achieve mental balance. Join us to embark on a journey of transformation and empowerment, nurturing your body and mind in a supportive community environment."
-    section: about
-
+  portfolio:
+    title: "Portfolio"
+    text: "Our highlighted project"
+    section: portfolio
+    closebutton: "Close Project"
+  
   team:
     title: "Meet Our Enthusiastic Team"
     text: "."
