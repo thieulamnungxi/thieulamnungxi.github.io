@@ -520,3 +520,5 @@ vi: &DEFAULT_VI
         icon: "fab fa-youtube-in"
       - url: https://instagram.com
         icon: "fab fa-instagram"
+vi-VN:
+  <<: *DEFAULT_VI
