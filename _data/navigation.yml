@@ -36,7 +36,7 @@ en-AU:
 vi: &DEFAULT_VI
   nav:
     - title: "Về Nững Xị"
-      section: aboutus
+      section: about
     - title: "Lịch Sử"
       section: timeline
     - title: "Hoạt Động"
