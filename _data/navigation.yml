@@ -40,7 +40,7 @@ vi: &DEFAULT_VI
     - title: "Lịch Sử"
       section: timeline
     - title: "Hoạt Động"
-      section: porfolio
+      section: portfolio
     - title: "Kiến thức sức khoẻ"
       section: services
     - title: "Đội Ngũ"
