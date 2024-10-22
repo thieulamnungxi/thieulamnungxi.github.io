@@ -128,7 +128,15 @@ vi: &DEFAULT_VI
     text: "Các hoạt động"
     section: portfolio
     closebutton: "X"
-
+    
+  services:
+    - title: Đả thông kinh mạch là gì?
+      desc: ...
+      image: assets/img/timeline/1.jpg
+    - title: Võ học là gì?
+      desc: ... 
+      image: assets/img/timeline/1.jpg
+  
   timeline:
     title: "Lịch sử phát triển"
     text: "Lịch sử phát triển của Thiếu Lâm Nững Xị"
