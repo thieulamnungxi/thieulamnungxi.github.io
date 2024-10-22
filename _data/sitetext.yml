@@ -130,12 +130,16 @@ vi: &DEFAULT_VI
     closebutton: "X"
 
   services:
-    - title: Đả thông kinh mạch là gì?
-      desc: ...
-      image: assets/img/timeline/1.jpg
-    - title: Võ học là gì?
-      desc: ... 
-      image: assets/img/timeline/1.jpg
+    title: "Kiến thức Sức khoẻ"
+    text: "."
+    section: services
+    list:
+      - title: "Đả thông kinh mạch là gì?"
+        desc: "..."
+        icon: fa-solid fa-x-ray #find more at https://fontawesome.com/icons
+      - title: "Võ học là gì?"
+        desc: "."
+        icon: fa-solid fa-heart-pulse
   
   timeline:
     title: "Lịch sử phát triển"
