@@ -128,7 +128,7 @@ vi: &DEFAULT_VI
     text: "Các hoạt động"
     section: portfolio
     closebutton: "X"
-    
+
   services:
     - title: Đả thông kinh mạch là gì?
       desc: ...
@@ -175,7 +175,7 @@ vi: &DEFAULT_VI
   team:
     title: "Gặp Gỡ Đội Ngũ Nhiệt Huyết Của Chúng Tôi"
     text: "."
-    subtext: "Tại trung tâm của Thiếu Lâm Nững Xị là một đội ngũ các chuyên gia tận tâm, mỗi người mang đến sự kết hợp độc đáo của chuyên môn và lòng nhiệt thành cho cộng đồng của chúng tôi. Các huấn luyện viên của chúng tôi không chỉ là các bậc thầy của võ thuật và có kỹ năng trong các kỹ thuật bấm huyệt cổ, mà họ còn chia sẻ một cam kết sâu sắc trong việc cải thiện sức khỏe và hạnh phúc. Với đam mê trao quyền cho cá nhân, họ thổi vào mỗi buổi tập đầy năng lượng và sự nhiệt huyết, đảm bảo rằng tất cả những ai tham gia cùng chúng tôi đều cảm thấy được chào đón, được truyền cảm hứng, và có khả năng đạt được mục tiêu sức khỏe và thể chất của mình. Nhóm sôi nổi này cam kết tạo dựng một môi trường hỗ trợ nơi mỗi thành viên có thể phát triển cả về thể chất, tinh thần."
+    subtext: "Giá trị cốt lõi của Thiếu Lâm Nững Xị nằm ở một đội ngũ các chuyên gia tận tâm, mỗi người mang đến sự kết hợp độc đáo của chuyên môn và lòng nhiệt thành cho cộng đồng của chúng tôi. Các huấn luyện viên của chúng tôi không chỉ là các bậc thầy của võ thuật và có kỹ năng trong các kỹ thuật bấm huyệt cổ, mà họ còn chia sẻ một cam kết sâu sắc trong việc cải thiện sức khỏe và hạnh phúc. Với đam mê trao quyền cho cá nhân, họ thổi vào mỗi buổi tập đầy năng lượng và sự nhiệt huyết, đảm bảo rằng tất cả những ai tham gia cùng chúng tôi đều cảm thấy được chào đón, được truyền cảm hứng, và có khả năng đạt được mục tiêu sức khỏe và thể chất của mình. Nhóm sôi nổi này cam kết tạo dựng một môi trường hỗ trợ nơi mỗi thành viên có thể phát triển cả về thể chất, tinh thần."
     section: team
     people:
       - name: "Master Thach Truong"
